@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the paper below.
+title: PSA-CMA-ES
+authors:
+- family-names: Akimoto
+  given-names: Youhei
+repository-code: https://github.com/akimotolab/psa-cma
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: 'PSA-CMA-ES: CMA-ES with Population Size Adaptation'
+  authors:
+  - family-names: Nishida
+    given-names: Kouhei
+  - family-names: Akimoto
+    given-names: Youhei
+  doi: 10.1145/3205455.3205467
+  year: 2018
+  start: '865'
+  end: '872'
+  collection-title: Proceedings of Genetic and Evolutionary Computation Conference, GECCO 2018, Kyoto, Japan, July 15-19, 2018
